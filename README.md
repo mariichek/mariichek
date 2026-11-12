@@ -1,16 +1,62 @@
-## Hi there 👋
+# Привет! Я аналитик данных 👋
 
-<!--
-**mariichek/mariichek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL · Python · PostgreSQL · Yandex DataLens**
 
-Here are some ideas to get you started:
+Имею 2,5 года инженерного опыта, включая работу с техническими данными, расчётами и управленческой отчётностью. В рамках профессиональной переподготовки в Яндекс Практикуме реализовала 11 аналитических проектов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Занимаюсь анализом продуктовых метрик, исследованием данных, проверкой статистических гипотез и визуализацией результатов. В аналитике уделяю особое внимание достоверности данных и практической ценности выводов.
+
+## 📊 Портфолио
+
+**A/B Testing — рекомендательный алгоритм**
+
+Проанализировала A/B-тест на данных 30,6 тыс. пользователей. Статистически значимого улучшения целевой метрики не обнаружено (p-value = 0,5784).
+
+*Python · pandas · statsmodels*
+
+**Food Delivery Analytics — продуктовая аналитика доставки еды**
+
+Исследовала пользовательскую активность, конверсию в заказ, удержание клиентов, LTV ресторанов и комиссионный доход.
+
+*SQL · PostgreSQL · Yandex DataLens*
+
+**Scooter Rental Analysis — анализ монетизации GoFast**
+
+Исследовала различия в выручке между пользователями с подпиской и без неё. Средняя месячная выручка подписчиков оказалась на 11,5% выше; различие статистически значимо.
+
+*Python · pandas · SciPy*
+
+**Moscow Restaurant Market — исследование рынка общепита**
+
+Изучила распределение заведений, конкурентную среду и ценовые сегменты Москвы. Подготовила рекомендации для потенциального инвестора.
+
+*Python · pandas · Matplotlib · Seaborn*
+
+*Репозитории с кодом проектов добавлю по мере публикации.*
+
+## 📈 BI-дашборды
+
+- [Продуктовая аналитика сервиса доставки еды](https://datalens.yandex/td9cu6lh9oe0c)
+- [Анализ продаж и пользователей билетного сервиса](https://datalens.yandex/63uanf3i9cy2p)
+- [Исследование рынка недвижимости](https://datalens.yandex/13o5rd3yifgql)
+
+## 🛠 Технические навыки
+
+- **SQL:** PostgreSQL, JOIN, CTE, Window Functions, Subqueries.
+- **Python:** pandas, NumPy, SciPy, statsmodels.
+- **Визуализация:** Matplotlib, Seaborn, Yandex DataLens.
+- **Продуктовая аналитика:** DAU, CR, Retention, LTV, Cohort Analysis.
+- **Статистика:** A/B Testing, Hypothesis Testing, z-test, t-test.
+- **Инструменты:** Jupyter Notebook, DBeaver, Excel, Git.
+
+## 🎓 Образование
+
+- **Яндекс Практикум (2026)** — «Аналитик данных», профессиональная переподготовка.
+- **ИТМО (2023)** — магистратура, диплом с отличием (5,0).
+- **СПбГТИ (2021)** — бакалавриат, диплом с отличием (4,83).
+
+## 📬 Контакты
+
+📍 Санкт-Петербург
+
+Открыта к предложениям о работе на позиции **Data Analyst**.
