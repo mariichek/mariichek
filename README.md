@@ -32,8 +32,6 @@
 
 *Python · pandas · Matplotlib · Seaborn*
 
-*Репозитории с кодом проектов добавлю по мере публикации.*
-
 ## 📈 BI-дашборды
 
 - [Продуктовая аналитика сервиса доставки еды](https://datalens.yandex/td9cu6lh9oe0c)
